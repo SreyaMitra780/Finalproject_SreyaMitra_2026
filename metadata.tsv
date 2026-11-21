@@ -1,0 +1,5 @@
+run	sample	condition
+SRR6464389	WT_rep1	control
+SRR6464390	WT_rep2	control
+SRR6464393	Vhl_null_rep1	Vhl_null
+SRR6464394	Vhl_null_rep2	Vhl_null
